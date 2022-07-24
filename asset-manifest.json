@@ -1,23 +1,16 @@
 {
   "files": {
-    "main.css": "/capston_v2_project/static/css/main.0b6138a3.css",
-    "main.js": "/capston_v2_project/static/js/main.0dbe5fbe.js",
+    "main.css": "/capston_v2_project/static/css/main.edb82a6a.css",
+    "main.js": "/capston_v2_project/static/js/main.b0c6e85f.js",
     "static/js/787.a90571a5.chunk.js": "/capston_v2_project/static/js/787.a90571a5.chunk.js",
-    "static/media/Muli-BlackItalic.ttf": "/capston_v2_project/static/media/Muli-BlackItalic.b444bd826469fa5f5a4a.ttf",
-    "static/media/Muli-ExtraBoldItalic.ttf": "/capston_v2_project/static/media/Muli-ExtraBoldItalic.aa2ebe0202bad539dc11.ttf",
-    "static/media/Muli-BoldItalic.ttf": "/capston_v2_project/static/media/Muli-BoldItalic.69ca681c8cedd9d8abe8.ttf",
-    "static/media/Muli-Italic.ttf": "/capston_v2_project/static/media/Muli-Italic.3e2543162c14fa554330.ttf",
-    "static/media/Muli-Black.ttf": "/capston_v2_project/static/media/Muli-Black.f9eef4963ab4a050f3cb.ttf",
-    "static/media/Muli-ExtraBold.ttf": "/capston_v2_project/static/media/Muli-ExtraBold.5021d95e474de31c42fb.ttf",
-    "static/media/Muli-SemiBoldItalic.ttf": "/capston_v2_project/static/media/Muli-SemiBoldItalic.6022433a24a84a1e7905.ttf",
-    "static/media/Muli-LightItalic.ttf": "/capston_v2_project/static/media/Muli-LightItalic.6a5477fb11179a340a97.ttf",
     "static/media/Muli-Regular.ttf": "/capston_v2_project/static/media/Muli-Regular.d08337b78196eb4754a0.ttf",
-    "static/media/Muli-Bold.ttf": "/capston_v2_project/static/media/Muli-Bold.23a4f6051b5d1c12337c.ttf",
-    "static/media/Muli-SemiBold.ttf": "/capston_v2_project/static/media/Muli-SemiBold.9498c8a5f7e6b141ec11.ttf",
-    "static/media/Muli-Light.ttf": "/capston_v2_project/static/media/Muli-Light.26ef50addefd98335ab7.ttf",
-    "static/media/Muli-ExtraLightItalic.ttf": "/capston_v2_project/static/media/Muli-ExtraLightItalic.b614a10058837e3e2f25.ttf",
-    "static/media/Muli-ExtraLight.ttf": "/capston_v2_project/static/media/Muli-ExtraLight.6394d000a45e517d11aa.ttf",
     "static/media/heroBanner.PNG": "/capston_v2_project/static/media/heroBanner.eb29aa0007b983ff449a.PNG",
+    "static/media/homepage_1.jpg": "/capston_v2_project/static/media/homepage_1.01c35f760c487a3533b6.jpg",
+    "static/media/shopMen.jpg": "/capston_v2_project/static/media/shopMen.3f14b9bd3d076452d15f.jpg",
+    "static/media/shopWomen.jpg": "/capston_v2_project/static/media/shopWomen.e9b446ab3d5efecc84b7.jpg",
+    "static/media/manStandingOnCliff.JPG": "/capston_v2_project/static/media/manStandingOnCliff.50b16af27d90766ab927.JPG",
+    "static/media/shopElectronics.jpg": "/capston_v2_project/static/media/shopElectronics.a8fb2045dd1eeb1dc87a.jpg",
+    "static/media/shopJewellery.jpg": "/capston_v2_project/static/media/shopJewellery.812864a2afaa68cfa2e9.jpg",
     "static/media/sliders.svg": "/capston_v2_project/static/media/sliders.0bc0acedaae026b86f71690af143e99e.svg",
     "static/media/share-2.svg": "/capston_v2_project/static/media/share-2.c9452d8d0a01f15f7b30c66f52b97baa.svg",
     "static/media/Logo.PNG": "/capston_v2_project/static/media/Logo.da4d754cf2ff78734ebd.PNG",
@@ -41,12 +34,14 @@
     "static/media/edit-2.svg": "/capston_v2_project/static/media/edit-2.d788d68fd7e2875db7c43ca534d47048.svg",
     "static/media/facebook.svg": "/capston_v2_project/static/media/facebook.b5b54c5572636785078aa70b8bdffe26.svg",
     "static/media/chevron-down.svg": "/capston_v2_project/static/media/chevron-down.fadc45040e456e5cea02f3cd047ee412.svg",
-    "main.0b6138a3.css.map": "/capston_v2_project/static/css/main.0b6138a3.css.map",
-    "main.0dbe5fbe.js.map": "/capston_v2_project/static/js/main.0dbe5fbe.js.map",
+    "static/media/chevron-left.svg": "/capston_v2_project/static/media/chevron-left.4ac6ee7882c74803488aa3c28a368590.svg",
+    "static/media/max-width_header.svg": "/capston_v2_project/static/media/max-width_header.2ed21edfb2b5dadb953f3839ae93ff36.svg",
+    "main.edb82a6a.css.map": "/capston_v2_project/static/css/main.edb82a6a.css.map",
+    "main.b0c6e85f.js.map": "/capston_v2_project/static/js/main.b0c6e85f.js.map",
     "787.a90571a5.chunk.js.map": "/capston_v2_project/static/js/787.a90571a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b6138a3.css",
-    "static/js/main.0dbe5fbe.js"
+    "static/css/main.edb82a6a.css",
+    "static/js/main.b0c6e85f.js"
   ]
 }
