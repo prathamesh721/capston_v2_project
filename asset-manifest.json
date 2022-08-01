@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/capston_v2_project/static/css/main.77487389.css",
-    "main.js": "/capston_v2_project/static/js/main.43f14316.js",
+    "main.css": "/capston_v2_project/static/css/main.badbf787.css",
+    "main.js": "/capston_v2_project/static/js/main.09e12963.js",
     "static/js/787.a90571a5.chunk.js": "/capston_v2_project/static/js/787.a90571a5.chunk.js",
     "static/media/homepage_1.png": "/capston_v2_project/static/media/homepage_1.e381db1c14abfc717006.png",
     "static/media/ManWearingShirtGoggles.png": "/capston_v2_project/static/media/ManWearingShirtGoggles.b059079456a38c25ef3e.png",
     "static/media/manStandingOnCliff.png": "/capston_v2_project/static/media/manStandingOnCliff.33999102e9d1828ff8f6.png",
+    "static/media/GuyWearingJeans.png": "/capston_v2_project/static/media/GuyWearingJeans.d31869f724d94bc14135.png",
     "static/media/Muli-Regular.ttf": "/capston_v2_project/static/media/Muli-Regular.d08337b78196eb4754a0.ttf",
     "static/media/heroBanner.PNG": "/capston_v2_project/static/media/heroBanner.eb29aa0007b983ff449a.PNG",
     "static/media/homepage_1.jpg": "/capston_v2_project/static/media/homepage_1.01c35f760c487a3533b6.jpg",
@@ -30,6 +31,7 @@
     "static/media/layers.svg": "/capston_v2_project/static/media/layers.c7a19f7a66511208890b90729b6a868f.svg",
     "static/media/search.svg": "/capston_v2_project/static/media/search.2a57860d6510d9d8509b76702dbc35f7.svg",
     "static/media/user.svg": "/capston_v2_project/static/media/user.91483d78eeba2c3d646d79ed77b449f4.svg",
+    "static/media/map-pin.svg": "/capston_v2_project/static/media/map-pin.195addc70f7290062e9dcaef4d61267c.svg",
     "static/media/lock.svg": "/capston_v2_project/static/media/lock.64439d453537a96d8d81d9817f2dfef8.svg",
     "static/media/twitter.svg": "/capston_v2_project/static/media/twitter.b87e2692a1d554d738f7f84d246c86d4.svg",
     "static/media/heart.svg": "/capston_v2_project/static/media/heart.3b35352339d37da7c50b5bcdbc557cd0.svg",
@@ -38,12 +40,12 @@
     "static/media/chevron-down.svg": "/capston_v2_project/static/media/chevron-down.fadc45040e456e5cea02f3cd047ee412.svg",
     "static/media/chevron-left.svg": "/capston_v2_project/static/media/chevron-left.4ac6ee7882c74803488aa3c28a368590.svg",
     "static/media/max-width_header.svg": "/capston_v2_project/static/media/max-width_header.2ed21edfb2b5dadb953f3839ae93ff36.svg",
-    "main.77487389.css.map": "/capston_v2_project/static/css/main.77487389.css.map",
-    "main.43f14316.js.map": "/capston_v2_project/static/js/main.43f14316.js.map",
+    "main.badbf787.css.map": "/capston_v2_project/static/css/main.badbf787.css.map",
+    "main.09e12963.js.map": "/capston_v2_project/static/js/main.09e12963.js.map",
     "787.a90571a5.chunk.js.map": "/capston_v2_project/static/js/787.a90571a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77487389.css",
-    "static/js/main.43f14316.js"
+    "static/css/main.badbf787.css",
+    "static/js/main.09e12963.js"
   ]
 }
