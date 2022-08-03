@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/capston_v2_project/static/css/main.c7d48720.css",
-    "main.js": "/capston_v2_project/static/js/main.a49e4033.js",
+    "main.css": "/capston_v2_project/static/css/main.b693370a.css",
+    "main.js": "/capston_v2_project/static/js/main.603af708.js",
     "static/js/787.a90571a5.chunk.js": "/capston_v2_project/static/js/787.a90571a5.chunk.js",
     "static/media/homepage_1.png": "/capston_v2_project/static/media/homepage_1.e381db1c14abfc717006.png",
     "static/media/ManWearingShirtGoggles.png": "/capston_v2_project/static/media/ManWearingShirtGoggles.b059079456a38c25ef3e.png",
@@ -21,8 +21,8 @@
     "static/media/instagram.svg": "/capston_v2_project/static/media/instagram.e94dbb563e8f9a0059d9874250a59d08.svg",
     "static/media/x-circle.svg": "/capston_v2_project/static/media/x-circle.748bc98eaf481fda8e7e2bcd377dec00.svg",
     "static/media/arrow-right-circle.svg": "/capston_v2_project/static/media/arrow-right-circle.53012157e7cf42a6060ca177236246ef.svg",
-    "static/media/shopping-bag.svg": "/capston_v2_project/static/media/shopping-bag.7865a20d4f73677ab5144fd6411a11f8.svg",
     "static/media/arrow-left-circle.svg": "/capston_v2_project/static/media/arrow-left-circle.aaa4a3d2502a7e5f0533e344a0093ec4.svg",
+    "static/media/shopping-bag.svg": "/capston_v2_project/static/media/shopping-bag.1ceb7d8208dd4937a06bd6a1ca592bf1.svg",
     "index.html": "/capston_v2_project/index.html",
     "static/media/layers.svg": "/capston_v2_project/static/media/layers.c7a19f7a66511208890b90729b6a868f.svg",
     "static/media/search.svg": "/capston_v2_project/static/media/search.2a57860d6510d9d8509b76702dbc35f7.svg",
@@ -36,12 +36,12 @@
     "static/media/chevron-down.svg": "/capston_v2_project/static/media/chevron-down.fadc45040e456e5cea02f3cd047ee412.svg",
     "static/media/chevron-left.svg": "/capston_v2_project/static/media/chevron-left.4ac6ee7882c74803488aa3c28a368590.svg",
     "static/media/max-width_header.svg": "/capston_v2_project/static/media/max-width_header.2ed21edfb2b5dadb953f3839ae93ff36.svg",
-    "main.c7d48720.css.map": "/capston_v2_project/static/css/main.c7d48720.css.map",
-    "main.a49e4033.js.map": "/capston_v2_project/static/js/main.a49e4033.js.map",
+    "main.b693370a.css.map": "/capston_v2_project/static/css/main.b693370a.css.map",
+    "main.603af708.js.map": "/capston_v2_project/static/js/main.603af708.js.map",
     "787.a90571a5.chunk.js.map": "/capston_v2_project/static/js/787.a90571a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7d48720.css",
-    "static/js/main.a49e4033.js"
+    "static/css/main.b693370a.css",
+    "static/js/main.603af708.js"
   ]
 }
