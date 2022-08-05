@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/capston_v2_project/static/css/main.4da96293.css",
-    "main.js": "/capston_v2_project/static/js/main.51c4b3b9.js",
+    "main.css": "/capston_v2_project/static/css/main.b148b438.css",
+    "main.js": "/capston_v2_project/static/js/main.74629c52.js",
     "static/js/787.a90571a5.chunk.js": "/capston_v2_project/static/js/787.a90571a5.chunk.js",
     "static/media/homepage_1.png": "/capston_v2_project/static/media/homepage_1.e381db1c14abfc717006.png",
     "static/media/ManWearingShirtGoggles.png": "/capston_v2_project/static/media/ManWearingShirtGoggles.b059079456a38c25ef3e.png",
@@ -34,12 +34,12 @@
     "static/media/chevron-down.svg": "/capston_v2_project/static/media/chevron-down.fadc45040e456e5cea02f3cd047ee412.svg",
     "static/media/chevron-left.svg": "/capston_v2_project/static/media/chevron-left.4ac6ee7882c74803488aa3c28a368590.svg",
     "static/media/max-width_header.svg": "/capston_v2_project/static/media/max-width_header.2ed21edfb2b5dadb953f3839ae93ff36.svg",
-    "main.4da96293.css.map": "/capston_v2_project/static/css/main.4da96293.css.map",
-    "main.51c4b3b9.js.map": "/capston_v2_project/static/js/main.51c4b3b9.js.map",
+    "main.b148b438.css.map": "/capston_v2_project/static/css/main.b148b438.css.map",
+    "main.74629c52.js.map": "/capston_v2_project/static/js/main.74629c52.js.map",
     "787.a90571a5.chunk.js.map": "/capston_v2_project/static/js/787.a90571a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4da96293.css",
-    "static/js/main.51c4b3b9.js"
+    "static/css/main.b148b438.css",
+    "static/js/main.74629c52.js"
   ]
 }
